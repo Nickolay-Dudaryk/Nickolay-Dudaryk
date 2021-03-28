@@ -7,7 +7,7 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nickdudaryk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616938183~hmac=7496ca3ac3cedfc1b4d51036af7b5ace" alt="https://www.linkedin.com/in/nickdudaryk" height="30" width="40" background-color=`#1589F0` /></a>
+<a href="https://www.linkedin.com/in/nickdudaryk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616938183~hmac=7496ca3ac3cedfc1b4d51036af7b5ace" alt="https://www.linkedin.com/in/nickdudaryk" height="30" width="40" background-color=`#1589F0` /></a>
 </p>
 
 
