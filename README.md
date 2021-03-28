@@ -7,7 +7,7 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nickdudaryk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nickdudaryk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nickdudaryk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616938183~hmac=7496ca3ac3cedfc1b4d51036af7b5ace" alt="https://www.linkedin.com/in/nickdudaryk" height="30" width="40" background-color=`#1589F0` /></a>
 </p>
 
 
@@ -33,9 +33,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
