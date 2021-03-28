@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nickolay</h1>
-<h3 align="center">I'm frontend developer</h3>
+<h3 align="center">I'm a frontend developer</h3>
 
 - 🌱 I’m currently learning **TypeScript, React.js, Node.js**
 
